@@ -1,0 +1,9 @@
+torch==2.1.0
+mujoco-py==2.0.2.13
+scipy==1.10.0
+seaborn==0.11.2
+matplotlib==3.3.4
+gym==0.18.0
+fire==0.5.0
+continual-world
+meta-world
