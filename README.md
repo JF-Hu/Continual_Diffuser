@@ -9,6 +9,12 @@ Code for "Continual Diffuser: Endowing Diffuser Plasticity and Stability with Ex
 
 ![Framework](figures/framework.png)
 
+- We construct a continual offline RL benchmark that contains 90 tasks in the current stage, and we will actively incorporate more datasets for all researchers.
+
+- We investigate the possibility of integrating experience rehearsal and diffuser, then propose the Continual Diffuser (CoD) to balance plasticity and stability.
+
+- Extensive experiments on a series of tasks show that CoD can achieve a promising plasticity-stability trade-off and outperform existing baselines on most tasks.
+
 First clone the code and installation of the relevant package.
 
     pip install -r requirements.txt
