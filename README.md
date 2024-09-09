@@ -5,7 +5,7 @@
 
 
 
-Code for "Continual Diffuser: Endowing Diffuser Plasticity and Stability with Experience Rehearsal in Continual Offline Reinforcement Learning".
+Code for "Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal".
 
 ![Framework](figures/framework.png)
 
@@ -35,4 +35,8 @@ If use default training config:
     python continual_diffuser_train.py 
 
 The instruction of how to set the various hyperparameters will be updated soon.
+
+## For offline datasets
+
+We will release the offline datasets soon, and the benchmark will be updated aperiodically. Please follow our updated instructions.
 
